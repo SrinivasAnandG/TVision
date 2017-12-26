@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "820308297163",
+    "firebase_url": "https://tvision-f0787.firebaseio.com",
+    "project_id": "tvision-f0787",
+    "storage_bucket": "tvision-f0787.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820308297163:android:8ae7f5f6aed3997f",
+        "android_client_info": {
+          "package_name": "com.srinivasanand.tvision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820308297163-qfqonq948qs9dkqo6m1e2113qo0rguim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srinivasanand.tvision",
+            "certificate_hash": "e010298d7fec30099b9fb459d202bcd05acae81e"
+          }
+        },
+        {
+          "client_id": "820308297163-ak5drcp0echqtj57qov0t3gfd4hcle4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByKGXd3kl407JDkXDijyMYixea3FVhoRg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820308297163-ak5drcp0echqtj57qov0t3gfd4hcle4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

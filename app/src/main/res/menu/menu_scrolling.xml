@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.journaldev.collapsingtoolbarlayout.ScrollingActivity">
+    <item
+        android:id="@+id/changeClubSuperUser"
+        android:title="Change Super user(club)"
+         />
+
+    <item
+        android:id="@+id/addEvent"
+        android:title="Post New Event"
+        />
+    <item
+        android:id="@+id/addTeamMember"
+        android:title="Add Team Member"
+        />
+
+    <item
+        android:id="@+id/deleteTeamMember"
+        android:title="Delete Team Member"
+        />
+
+
+
+
+
+</menu>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_tools"
+            android:icon="@drawable/qricon"
+            android:title="Scan Qr" />
+        <item
+            android:id="@+id/nav_college_web_site"
+            android:icon="@drawable/sreenidhi_logo"
+            android:title="College Site " />
+        <item
+            android:id="@+id/nav_community_web_site"
+            android:icon="@drawable/sreenidhi_logo"
+            android:title="Forums " />
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/profileicon"
+            android:title="Profile" />
+        <item
+            android:id="@+id/Searchprofile"
+            android:icon="@drawable/searchprofile"
+            android:title="Search Profile" />
+        <item
+            android:id="@+id/AddClubs"
+            android:icon="@drawable/plusicon"
+            android:title="Add Clubs" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/Chating"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Personal Chatting" />
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share Event " />
+            <item
+                android:id="@+id/nav_camera"
+                android:icon="@drawable/logouticon"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>

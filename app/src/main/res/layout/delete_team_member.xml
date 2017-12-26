@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/orange"
+        android:text="Spying mighted be Caughted. You will be the responsible for missusing the data provided, you cant add him again :"
+        android:paddingTop="20dp"
+        android:textSize="20sp"/>
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="20dp">
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/email"
+            android:hint="Delete Email." />
+    </android.support.design.widget.TextInputLayout>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete Him."
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:paddingTop="20dp"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/deleteHim"/>
+
+</LinearLayout>
